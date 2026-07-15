@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR5a0087/v1
 canonical_location: https://kanripo.org/bkk/KR5a0087/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 元始無量度人上品妙經四註
   identifiers:
@@ -31,17 +31,17 @@ editions:
 - short: SJB
 assets:
   parts:
-  - {seq: 0, filename: KR5a0087_000.yaml, hash: 'sha256:c3c182d69f871fee522a54058a4b841a63dced788c84bd29cbe96654b8b5f6f7'}
-  - {seq: 1, filename: KR5a0087_001.yaml, hash: 'sha256:d1451b058cae4b6f34cfa3e67b4c71a4b03537092f81296d4c9ac0197c795919'}
-  - {seq: 2, filename: KR5a0087_002.yaml, hash: 'sha256:478ca1f60b2095c8daa0a830be9b56bed54591effe0020c49a28e76193dc18ee'}
-  - {seq: 3, filename: KR5a0087_003.yaml, hash: 'sha256:4b84dcec4d211a268d318494f314d4094d6b957ba9699d8022ca27911a1a1818'}
-  - {seq: 4, filename: KR5a0087_004.yaml, hash: 'sha256:fa70d77082c3dff6eea929629b02499ae38f5ad3374bd387cbe2349775b27f91'}
+  - {seq: 0, filename: KR5a0087_000.yaml, hash: 'sha256:8bf6d599ae445cb0eb69d32ece954a97b81bcaa74c1926899fc28fc1c6a3bf51'}
+  - {seq: 1, filename: KR5a0087_001.yaml, hash: 'sha256:4d9fe28350a7e59f384871fb8a4b16a1b660230f7a1c6350157e5ff383208c11'}
+  - {seq: 2, filename: KR5a0087_002.yaml, hash: 'sha256:81f4f80edcad83b48770db9cb2e6e0d427ab713e3db554b9ff0cdf396425ae19'}
+  - {seq: 3, filename: KR5a0087_003.yaml, hash: 'sha256:6944eca752a53e228ba69d628b3ac47b2255d5e38ede32aded4a588d9cc0d42d'}
+  - {seq: 4, filename: KR5a0087_004.yaml, hash: 'sha256:fbd5bb2157edad60f54124fcb51cf33abb5fb4dfe453485ce7203ff9570d692a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR5a0087_000.markers.yaml, hash: 'sha256:39c00f6022e7da8983de6616a341cad3d3cfa4b3b3844f02a92e81b03f8dc381'}
-  - {seq: 1, role: markers, filename: assets/KR5a0087_001.markers.yaml, hash: 'sha256:b5e5aed40fc21197e66369a456f9cf4091fdc7465ea9311ace428ab2188f9085'}
-  - {seq: 2, role: markers, filename: assets/KR5a0087_002.markers.yaml, hash: 'sha256:64fa19ed6824f63d09edb4245f950adf81d0fd0d6dc33f03aa43043fa4a4540c'}
-  - {seq: 3, role: markers, filename: assets/KR5a0087_003.markers.yaml, hash: 'sha256:84a4b3a33815dacc37202d285394ee772a71f5c9d0dd90d20de0080c3d869f05'}
-  - {seq: 4, role: markers, filename: assets/KR5a0087_004.markers.yaml, hash: 'sha256:bac8a92e909cea05efb64081a92fb6656626cbbd130f32c7c3c59ac03e6f31eb'}
+  - {seq: 0, role: markers, filename: assets/KR5a0087_000.markers.yaml, hash: 'sha256:f3124f36485221da89418efb2deaf9fc57778667eccd9bc30aa6372167951ecf'}
+  - {seq: 1, role: markers, filename: assets/KR5a0087_001.markers.yaml, hash: 'sha256:b4cfc3a1302dc442b37643211b956cfb0a95ba1b00a002391707dfa08637f6cc'}
+  - {seq: 2, role: markers, filename: assets/KR5a0087_002.markers.yaml, hash: 'sha256:c5591999300a57799579db1f9ff03c02781411dab75db27436ff46cca34a393d'}
+  - {seq: 3, role: markers, filename: assets/KR5a0087_003.markers.yaml, hash: 'sha256:264ac6e44aa76e266908a9e7159c3c655955092ee51999c9c565e3095f1a5913'}
+  - {seq: 4, role: markers, filename: assets/KR5a0087_004.markers.yaml, hash: 'sha256:5a7c94965027b87ab9c8ca8eea0b72745ca2c4cad1dd9d59db4540a602795a5b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -93,4 +93,7 @@ table_of_contents:
   label: juan 004
   type: section
   level: 1
-hash: sha256:ee439ba5b8c54c4887cfcade705944831c8bd70c2a69412a76ad1d1c93f25b5f
+hash: sha256:dac95b8136c197708173b56cc7aaf21b8f569c4f46891dc4435b312802acda41
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
